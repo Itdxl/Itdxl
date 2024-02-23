@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Itdxl/Itdxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dmitry.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I'm currently working on Django Python projects and training Python skills.
+- 📫 You can reach me at: logimor@yandex.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+### Programming Languages
+- Python
+
+### Frameworks
+- Django Framework
+
+### Tools and Technologies
+- Git
+- REST API
+- Bash
+- SQLite
+- pytest
+- Yandex.Cloud
+- Nginx
+- Docker
+- OOP
+- PostgreSQL
+- Postman API
+- DRF
+- Postman
+
+
+
