@@ -7,40 +7,32 @@ My name is Dmitry.
 - 📫 You can reach me at: logimor@yandex.ru
 
 ## Skills
-<table>
-  <tr>
-    <td>
-      <h3>Programming Languages</h3>
-      <ul>
-        <li>Python</li>
-      </ul>
-    </td>
-    <td>
-      <h3>Frameworks</h3>
-      <ul>
-        <li>Django Framework</li>
-      </ul>
-    </td>
-    <td>
-      <h3>Tools and Technologies</h3>
-      <ul>
-        <li>Git</li>
-        <li>REST API</li>
-        <li>Bash</li>
-        <li>SQLite</li>
-        <li>pytest</li>
-        <li>Yandex.Cloud</li>
-        <li>Nginx</li>
-        <li>Docker</li>
-        <li>OOP</li>
-        <li>PostgreSQL</li>
-        <li>Postman API</li>
-        <li>DRF</li>
-        <li>Postman</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Programming Languages
+<div style="background-color: #007bff; color: #ffffff; padding: 10px; border-radius: 5px;">
+  <h3>Python</h3>
+</div>
+
+### Frameworks
+<div style="background-color: #007bff; color: #ffffff; padding: 10px; border-radius: 5px;">
+  <h3>Django Framework</h3>
+</div>
+
+### Tools and Technologies
+<div style="background-color: #007bff; color: #ffffff; padding: 10px; border-radius: 5px;">
+  <h3>Git</h3>
+  <h3>REST API</h3>
+  <h3>Bash</h3>
+  <h3>SQLite</h3>
+  <h3>pytest</h3>
+  <h3>Yandex.Cloud</h3>
+  <h3>Nginx</h3>
+  <h3>Docker</h3>
+  <h3>OOP</h3>
+  <h3>PostgreSQL</h3>
+  <h3>Postman API</h3>
+  <h3>DRF</h3>
+  <h3>Postman</h3>
+</div>
 
 
 
