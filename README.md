@@ -15,18 +15,15 @@ My name is Dmitry.
 
 ### Tools and Technologies
 - Git
-- REST API
 - Bash
+- OOP
+- REST API
+- PostgreSQL
 - SQLite
-- pytest
+- Postman
 - Yandex.Cloud
 - Nginx
 - Docker
-- OOP
-- PostgreSQL
-- Postman API
-- DRF
-- Postman
 
 
 
